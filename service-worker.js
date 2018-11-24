@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/scan-cashback-web/precache-manifest.999b1bb8f1d14b1d3ad4345d347c88fd.js"
+  "/scan-cashback-web/precache-manifest.330022a9a954e74d340cceac2076372b.js"
 );
 
 workbox.clientsClaim();

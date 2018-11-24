@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/scan-cashback-web/static/js/runtime~main.24da7e6a.js"
   },
   {
-    "revision": "940ee72e1571c002b175",
-    "url": "/scan-cashback-web/static/js/main.940ee72e.chunk.js"
+    "revision": "9f022665b39525ef5080",
+    "url": "/scan-cashback-web/static/js/main.9f022665.chunk.js"
   },
   {
-    "revision": "b5078b9d6b2e9df6e447",
-    "url": "/scan-cashback-web/static/js/1.b5078b9d.chunk.js"
+    "revision": "9e84e759c6a71fbf6cc6",
+    "url": "/scan-cashback-web/static/js/1.9e84e759.chunk.js"
   },
   {
-    "revision": "940ee72e1571c002b175",
-    "url": "/scan-cashback-web/static/css/main.0ffde59c.chunk.css"
+    "revision": "9f022665b39525ef5080",
+    "url": "/scan-cashback-web/static/css/main.906b6727.chunk.css"
   },
   {
-    "revision": "96321f9804708609f2700439c441ed3f",
+    "revision": "f2bdf9ec353db9219157ee52b8010654",
     "url": "/scan-cashback-web/index.html"
   }
 ];
