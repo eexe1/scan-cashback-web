@@ -21,7 +21,7 @@ class App extends Component {
     }
 
     static handleSubmit() {
-        window.open(App.formUrl, "_blank")
+        window.open(App.formUrl, "_blank");
     }
 
     render() {
