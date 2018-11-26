@@ -20,6 +20,10 @@ class App extends Component {
 
     }
 
+    componentDidMount() {
+        document.title = "Cashback Rewards"
+    }
+
     static handleSubmit() {
         window.open(App.formUrl, "_blank");
     }
@@ -54,8 +58,8 @@ class App extends Component {
                         <div className="home-sub">Enter your details</div>
                     </Col>
                 </Row>
-                <Row>
-                    <Col xs={4} md={4} xsOffset={4} className="vcenter">
+                <Row className="text-center">
+                    <Col xs={4} md={4} className="vcenter">
                         <Button bsStyle="primary" bsSize="large"
                                 onClick={App.handleSubmit}
                         >
