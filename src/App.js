@@ -69,7 +69,15 @@ class App extends Component {
                 </Row>
                 <Row>
                     <Col xs={12} md={12} className="vcenter">
-                        <p>*A maximum 5$ amazon giftcard delivered to your email address. </p>
+                        <p>*A maximum $5 Amazon giftcard delivered to your email address. </p>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col xs={2} md={2} className="vcenter">
+                        <a href="/privacy.html">Privacy Policy</a>
+                    </Col>
+                    <Col xs={4} md={4} className="vcenter">
+                        <a href="/terms.html">Terms and Conditions</a>
                     </Col>
                 </Row>
             </Grid>
