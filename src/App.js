@@ -74,7 +74,7 @@ class App extends Component {
                 </Row>
                 <Row>
                     <Col xs={2} md={2} className="vcenter">
-                        <a href="/privacy-policy.html">Privacy Policy</a>
+                        <a href="/privacy.html">Privacy Policy</a>
                     </Col>
                     <Col xs={4} md={4} className="vcenter">
                         <a href="/terms.html">Terms and Conditions</a>
